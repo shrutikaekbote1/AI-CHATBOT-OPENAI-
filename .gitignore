@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Optional: Ignore package-lock.json if you don’t want to commit it
+package-lock.json
